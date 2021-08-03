@@ -5,7 +5,10 @@
   },
   "resources" : [
     {
-      "filename" : "ARImage.arreferenceimage"
+      "filename" : "chair.arreferenceimage"
+    },
+    {
+      "filename" : "table.arreferenceimage"
     }
   ]
 }
